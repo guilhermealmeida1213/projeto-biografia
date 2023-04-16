@@ -100,6 +100,10 @@ footer h3 {
     text-align: center;
 }
 
+footer  a > p {
+    color: black;
+}
+
 ul.coluna {
     columns: 2;
     width: 350px;
