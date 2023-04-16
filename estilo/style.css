@@ -57,8 +57,6 @@ main {
     background-color: white;
     text-align: justify;
     box-shadow: 1px 1px 5px  rgba(0, 0, 0, 0.233);
-    border-bottom-left-radius: 10px;
-    border-bottom-right-radius: 10px;
 }
 
 main h1  {
@@ -73,6 +71,37 @@ main p {
     line-height: 2em;
 }
 
+aside h2 {
+    font-size: 1.1em;
+    margin: 10px;
+}
+
+li {
+    list-style: none;
+    margin: 10px;
+}
+
 a {
     text-decoration: none;
+}
+
+footer {
+    background-color: #C4D1CA;
+    padding: 10px;
+}
+
+footer h3 {
+    padding: 10px;
+    text-align: center;
+}
+
+ul.coluna {
+    columns: 2;
+    width: 350px;
+    text-align: center;
+    margin: auto;
+}
+
+p.d {
+    padding: 10px;
 }
