@@ -30,6 +30,12 @@ header h1 {
     font-size: 3em;
 }
 
+img {
+    border-radius: 50%;
+    display: block;
+    margin: auto;
+}
+
 main {
     margin: auto;
     max-width: 1000px;
@@ -46,6 +52,7 @@ main h1  {
     padding: 10px;
     padding-bottom: 20px;
     font-size: 2em;
+    text-align: center;
 }
 
 main p {
