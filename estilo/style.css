@@ -83,6 +83,11 @@ li {
 
 a {
     text-decoration: none;
+    color: #687e72;
+}
+
+a:hover {
+    text-decoration: underline;
 }
 
 footer {
